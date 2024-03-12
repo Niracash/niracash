@@ -1,5 +1,6 @@
 [![MasterHead](https://i.ibb.co/42VZSMs/171028489692385566.png)](https://nirakash.com/)
-<h1 align="center">Hi 👋, I'm Nirakash Sapkota</h1>
+<h1 align="center">Hi 👋, 
+  I'm Nirakash</h1>
 <h3 align="center">A passionate software developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niracash&label=Profile%20views&color=0e75b6&style=flat" alt="niracash" /> </p>
