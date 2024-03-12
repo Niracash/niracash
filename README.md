@@ -1,4 +1,4 @@
-[![MasterHead](https://www.anques.com/wp-content/uploads/2019/07/software-development.jpg)](https://nirakash.com/)
+[![MasterHead](https://ibb.co/rxbsj99)](https://nirakash.com/)
 <h1 align="center">Hi 👋, I'm Nirakash Sapkota</h1>
 <h3 align="center">A passionate software developer from Denmark</h3>
 
