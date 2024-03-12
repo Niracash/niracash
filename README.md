@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/rxbsj99)](https://nirakash.com/)
+[![MasterHead](https://i.ibb.co/PcTQLkk/Software-Developer-3-12-2024-1.png)](https://nirakash.com/)
 <h1 align="center">Hi 👋, I'm Nirakash Sapkota</h1>
 <h3 align="center">A passionate software developer from Denmark</h3>
 
