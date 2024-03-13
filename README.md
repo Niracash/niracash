@@ -22,11 +22,16 @@
 <a href="https://linkedin.com/in/nirakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirakash" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niracash/niracash/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niracash/niracash/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niracash/niracash/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
