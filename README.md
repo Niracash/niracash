@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/42VZSMs/171028489692385566.png)](https://nirakash.com/)
 <h1 align="center">Hi 👋, 
   I'm Nirakash</h1>
 <h3 align="center">A passionate software developer</h3>
