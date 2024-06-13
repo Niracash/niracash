@@ -6,7 +6,7 @@
 
   <a href="mailto:nirakashmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Nirakash, nirakashmail@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/nirakash/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Nirakash" /></a>
-  <a href="https://nirakash.com/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=todoist&logoColor=0A0209" alt="profile of LinkedIn with username Nirakash" /></a>
+  
 
 </div>
 
