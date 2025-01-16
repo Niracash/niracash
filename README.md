@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, 
   I'm Nirakash</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <div align="center">
 
@@ -14,17 +14,7 @@
 
 <p align="left"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fniracash%2Fniracash&label=VIEWS&labelColor=%23000&countColor=%230A0209"/></p>
 
-- 🔭 I’m currently working on **.NETcore MVC BLOG**
-
-- 🌱 I’m currently learning **DevOps and Software Engineering**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/Niracash?tab=repositories)
-
-- 💬 Ask me about **ASP.NET, WebAPI and Programming Languages**
-
-- 📫 How to reach me **nirakashmail@gmail.com**
-
-- ⚡ Fun fact **I am currently searching for an apprenticeship**
+Ever since childhood, I've been fascinated by video games and dreamed of becoming a game developer. As I grew older, I discovered a passion for building desktop applications, particularly with C# and WPF. While my current focus is on web development, I still enjoy tinkering with Unity and WPF in my spare time. I’m always excited to learn new technologies, collaborate on interesting projects, and share what I’ve learned with the community.
 
 <br>
 
