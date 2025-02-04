@@ -1,26 +1,13 @@
-<h1 align="center">Hi 👋, 
-  I'm Nirakash</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hello! welcome to my github.</h1>
+<h3 align="center">Software Developer | Web & Desktop Applications | C# | .NET | Angular | Azure</h3>
 
 <div align="center">
-
-  <a href="mailto:nirakashmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Nirakash, nirakashmail@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/nirakash/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Nirakash" /></a>
-  <a href="https://nirakash.com/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=todoist&logoColor=0A0209" alt="profile of LinkedIn with username Nirakash" /></a>
-  
-
+  <a href="mailto:nirakashmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nirakash/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
+  <a href="https://nirakash.com/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=todoist&logoColor=0A0209" alt="Portfolio" /></a>
 </div>
 
-
-<p align="left"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fniracash%2Fniracash&label=VIEWS&labelColor=%23000&countColor=%230A0209"/></p>
-
-Ever since childhood, I've been fascinated by video games and dreamed of becoming a game developer. As I grew older, I discovered a passion for building desktop applications, particularly with C# and WPF. While my current focus is on web development, I still enjoy tinkering with Unity and WPF in my spare time. I’m always excited to learn new technologies, collaborate on interesting projects, and share what I’ve learned with the community.
-
-<br>
-
 <div align="center">
-  <h2>My Contributions</h2>
-  <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niracash/niracash/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niracash/niracash/output/github-contribution-grid-snake.svg">
@@ -28,22 +15,40 @@ Ever since childhood, I've been fascinated by video games and dreamed of becomin
 </picture>
 </div>
 
-<div align="center">
-<h2>Languages and Tools:</h3>
-  <p>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,docker,azure,py,html,css,ts,unity,linux" />
-  </a>
-</p>
-</div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niracash&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+---
 
-<hr>
+## 👨‍💻 About Me
 
-| ![Niracash github stats](https://github-readme-stats.vercel.app/api?username=niracash\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Niracash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niracash&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
+I am a **software developer** with a strong focus on **web development**, **desktop applications**, and **cloud-based solutions**. My expertise lies in **C#**, **.NET**, **Angular**, and **Azure**. With a passion for writing clean, maintainable code, I enjoy working on both frontend and backend systems, ensuring seamless user experiences.
+
+💡 **Interests:**
+- Building **scalable web applications** using **Angular & .NET**
+- Developing **desktop applications** using **C# & WPF**
+- Exploring **Azure services** and **cloud-native architectures**
+- **Game development** as a hobby using **Unity**
+
+I am always open to **collaborating** on exciting projects and **learning new technologies**.
+
+---
+
+## 🔧 Skills & Technologies
+
+**Languages & Frameworks:**  
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,py,html,css,ts,unity)
+
+**Tools & Platforms:**  
+![Tools](https://skillicons.dev/icons?i=github,docker,azure,visualstudio,vscode,stackoverflow,linux)
+
+---
+
 ## 🏆 Languages Used in My Repositories
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niracash&layout=compact&langs_count=7&theme=tokyonight&bg_color=fff&title_color=0a1931&text_color=0A0209&border_color=0A0209)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niracash&layout=compact&langs_count=7&theme=tokyonight&bg_color=fff&title_color=0a1931&text_color=0A0209&border_color=0A0209)
 
-<hr>
+---
 
+## 📫 Let's Connect!
+💼 Looking for new opportunities in software development.
+
+📩 **Email:** [nirakashmail@gmail.com](mailto:nirakashmail@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/nirakash](https://www.linkedin.com/in/nirakash/)  
+🌐 **Portfolio:** [nirakash.com](https://nirakash.com/)
