@@ -32,7 +32,7 @@ Ever since childhood, I've been fascinated by video games and dreamed of becomin
 <h2>Languages and Tools:</h3>
   <p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,github,azure,py,html,css,ts,bootstrap,unity,visualstudio,vscode,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,docker,azure,py,html,css,ts,unity,linux" />
   </a>
 </p>
 </div>
@@ -42,6 +42,8 @@ Ever since childhood, I've been fascinated by video games and dreamed of becomin
 
 | ![Niracash github stats](https://github-readme-stats.vercel.app/api?username=niracash\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Niracash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niracash&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
+## 🏆 Languages Used in My Repositories
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niracash&layout=compact&langs_count=7&theme=tokyonight&bg_color=fff&title_color=0a1931&text_color=0A0209&border_color=0A0209)
 
 <hr>
 
