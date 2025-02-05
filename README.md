@@ -1,5 +1,5 @@
 <h1 align="center">Hello! welcome to my github.</h1>
-<h3 align="center">Software Developer | Web & Desktop Applications | C# | .NET | Angular | Azure</h3>
+<h3 align="center">Software Developer | Web & Desktop Applications | C# | .NET | Angular </h3>
 
 <div align="center">
   <a href="mailto:nirakashmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
@@ -19,13 +19,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **software developer** with a strong focus on **web development**, **desktop applications**, and **cloud-based solutions**. My expertise lies in **C#**, **.NET**, **Angular**, and **Azure**. With a passion for writing clean, maintainable code, I enjoy working on both frontend and backend systems, ensuring seamless user experiences.
+I am a software developer specializing in web development, desktop applications, and cloud solutions. I have expertise in C#, .NET, Angular, and Azure, and I love learning new technologies. I enjoy writing clean, maintainable code and working on both frontend and backend to create smooth user experiences.
 
 💡 **Interests:**
 - Building **scalable web applications** using **Angular & .NET**
 - Developing **desktop applications** using **C# & WPF**
-- Exploring **Azure services** and **cloud-native architectures**
+- Exploring **Azure services** and **cloud native architectures**
 - **Game development** as a hobby using **Unity**
+- Learning new **languages & frameworks** in free time
 
 I am always open to **collaborating** on exciting projects and **learning new technologies**.
 
