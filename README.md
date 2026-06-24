@@ -1,5 +1,5 @@
 <h1 align="center">Hello! Welcome To My GitHub</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Coding is my hobby</h3>
 
 <div align="center">
   <a href="mailto:nirakashmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
@@ -8,7 +8,7 @@
 
 ---
 
-I am a software engineer with experience in building web and desktop applications, designing software architecture, and delivering end-to-end solutions. I have worked extensively with frontend and backend frameworks, databases, APIs, CI/CD pipelines, and containerization using Docker. I am also experienced in cloud platforms such as Azure, version control systems, software testing, and UX/UI design. I enjoy applying best practices to write clean, maintainable code, and collaborating in agile environments to create high quality user experiences.
+I am a developer with experience in building web and desktop applications, designing software architecture, and delivering end-to-end solutions. I have worked extensively with frontend and backend frameworks, databases, APIs, CI/CD pipelines, and containerization using Docker. I am also experienced in cloud platforms such as Azure, version control systems, software testing, and UX/UI design. I enjoy applying best practices to write clean, maintainable code, and collaborating in agile environments to create high quality user experiences.
 <div align="center">
   
 ![Skills](https://skillicons.dev/icons?i=angular,arduino,azure,bash,bootstrap,cs,cpp,docker,dotnet,firebase,flutter,git,laravel,mysql,nestjs,nodejs,postgres,postman,powershell,py,raspberrypi,react,supabase,svelte,tailwind,ts,unity)
