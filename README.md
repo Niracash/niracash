@@ -4,7 +4,6 @@
 <div align="center">
   <a href="mailto:nirakashmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/nirakash/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
-  <a href="https://nirakash.com/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=todoist&logoColor=0A0209" alt="Portfolio" /></a>
 </div>
 
 ---
